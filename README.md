@@ -1,7 +1,7 @@
 #Coffe App
 A fun, interactive Python application built with **Tkinter**
 
-Press the green button(<code>) and click Download zip. After that
+Press the green button that says(code) and click Download zip. After that
 extract it all. If you use Visual Studio Code just open the folder as a project
 and run it. Else go to terminal and go the the path of the file and run python present.py
 
